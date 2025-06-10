@@ -1,0 +1,16 @@
+{
+  "id": "c6b40d04-50be-4a4a-8a45-6391353ba1f0",
+  "filename": "placement.csv",
+  "originalFilename": "placement.csv",
+  "fileSize": 2179,
+  "title": "the placement dataset",
+  "description": " this dataset is relevent for the students applying for colleges",
+  "columns": [
+    "cgpa",
+    "package"
+  ],
+  "rowCount": 201,
+  "uploadDate": "2025-06-05T09:56:13.995Z",
+  "fileType": "csv",
+  "status": "completed"
+}

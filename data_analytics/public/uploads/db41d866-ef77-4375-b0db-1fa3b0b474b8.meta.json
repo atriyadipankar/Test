@@ -1,0 +1,30 @@
+{
+  "id": "db41d866-ef77-4375-b0db-1fa3b0b474b8",
+  "filename": "personality_dataset.csv",
+  "originalFilename": "personality_dataset.csv",
+  "fileSize": 107234,
+  "title": "Personality dataset",
+  "description": "This is the dataset that tells the personality of other person.",
+  "columns": [
+    "Time_spent_Alone",
+    "Stage_fear",
+    "Social_event_attendance",
+    "Going_outside",
+    "Drained_after_socializing",
+    "Friends_circle_size",
+    "Post_frequency",
+    "Personality"
+  ],
+  "rowCount": 2901,
+  "uploadDate": "2025-06-05T11:39:24.676Z",
+  "fileType": "csv",
+  "status": "completed",
+  "aiGenerated": false,
+  "insights": [
+    "Most individuals in the dataset are classified as Extroverts based on the provided data.",
+    "There seems to be a pattern where Introverts tend to have higher stage fear and post less frequently on social media compared to Extroverts.",
+    "There are missing values in the 'Going_outside' column which may need to be addressed during data cleaning."
+  ],
+  "imagePrompt": "abstract data visualization of social behavior, personality types, friendship circle, professional, minimalist, business analytics dashboard",
+  "summary": "A dataset capturing social behaviors and personality types of individuals."
+}

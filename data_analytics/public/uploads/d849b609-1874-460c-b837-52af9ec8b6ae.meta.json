@@ -1,0 +1,29 @@
+{
+  "id": "d849b609-1874-460c-b837-52af9ec8b6ae",
+  "filename": "ben10_aliens.csv",
+  "originalFilename": "ben10_aliens.csv",
+  "fileSize": 3047,
+  "title": "Ben 10 alien dataset",
+  "description": "This is the dataset for all the aliens present the show ben 10",
+  "columns": [
+    "alien_id",
+    "alien_name",
+    "species",
+    "home_planet",
+    "strength_level",
+    "speed_level",
+    "intelligence"
+  ],
+  "rowCount": 75,
+  "uploadDate": "2025-06-05T11:27:13.325Z",
+  "fileType": "csv",
+  "status": "completed",
+  "aiGenerated": false,
+  "insights": [
+    "The dataset includes a variety of aliens with different levels of strength, speed, and intelligence.",
+    "Several aliens share the same home planet, such as Vega and Tierra Nova.",
+    "The strength levels of the aliens vary widely, with some having a maximum rating of 10."
+  ],
+  "imagePrompt": "abstract data visualization of Ben 10 aliens, fictional creatures, extraterrestrial beings, professional, minimalist, business analytics dashboard",
+  "summary": "A dataset detailing characteristics of 'Ben 10' aliens such as species, home planet, and ability levels."
+}

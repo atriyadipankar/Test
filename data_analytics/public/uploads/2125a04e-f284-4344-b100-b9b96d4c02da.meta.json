@@ -1,0 +1,33 @@
+{
+  "id": "2125a04e-f284-4344-b100-b9b96d4c02da",
+  "filename": "top_100_saas_companies_2025.csv",
+  "originalFilename": "top_100_saas_companies_2025.csv",
+  "fileSize": 13367,
+  "title": "Top 100 saas companies",
+  "description": "This dataset shows the top 100 saas companies in the world.",
+  "columns": [
+    "Company Name",
+    "Founded Year",
+    "HQ",
+    "Industry",
+    "Total Funding",
+    "ARR",
+    "Valuation",
+    "Employees",
+    "Top Investors",
+    "Product",
+    "G2 Rating"
+  ],
+  "rowCount": 101,
+  "uploadDate": "2025-06-05T11:32:03.189Z",
+  "fileType": "csv",
+  "status": "completed",
+  "aiGenerated": false,
+  "insights": [
+    "Many of the top SaaS companies are headquartered in tech hubs like San Francisco and Silicon Valley.",
+    "The dataset includes a diverse range of industries such as enterprise software, CRM, e-commerce, and data warehousing.",
+    "There is a significant range in total funding and valuation among the top 100 SaaS companies."
+  ],
+  "imagePrompt": "abstract data visualization of SaaS companies, Financial performance, Tech industry, professional, minimalist, business analytics dashboard",
+  "summary": "Dataset of top 100 SaaS companies in 2025 with relevant financial and operational information."
+}
