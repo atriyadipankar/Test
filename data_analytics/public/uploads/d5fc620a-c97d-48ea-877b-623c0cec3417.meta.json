@@ -1,0 +1,29 @@
+{
+  "id": "d5fc620a-c97d-48ea-877b-623c0cec3417",
+  "filename": "ben10_aliens.csv",
+  "originalFilename": "ben10_aliens.csv",
+  "fileSize": 3047,
+  "title": "Ben 10 alien dataset",
+  "description": "This dataset contains information about various aliens from the animated series Ben 10. It includes details such as the alien's ID, name, species, home planet, strength level, speed level, and intelligence level. This data could be used for analyzing the characteristics of different aliens and comparing their abilities.",
+  "columns": [
+    "alien_id",
+    "alien_name",
+    "species",
+    "home_planet",
+    "strength_level",
+    "speed_level",
+    "intelligence"
+  ],
+  "rowCount": 75,
+  "uploadDate": "2025-06-10T17:18:31.375Z",
+  "fileType": "csv",
+  "status": "completed",
+  "aiGenerated": true,
+  "insights": [
+    "The dataset consists of 19 different aliens with varying strength, speed, and intelligence levels.",
+    "Some aliens share the same home planet, such as Astrodactyl and Bloxx being from Hala.",
+    "There is a wide range of species represented in the dataset, from Indeedite and Particularite to Valueite and Workite."
+  ],
+  "imagePrompt": "abstract data visualization of Ben 10 aliens, Sci-fi creatures, Extraterrestrial beings, professional, minimalist, business analytics dashboard",
+  "summary": "Dataset containing information about aliens from Ben 10, including their species, home planet, and ability levels."
+}
